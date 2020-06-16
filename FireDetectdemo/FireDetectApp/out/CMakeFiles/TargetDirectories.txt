@@ -1,0 +1,9 @@
+/home/aikit/FireDetectApp/out/CMakeFiles/edit_cache.dir
+/home/aikit/FireDetectApp/out/CMakeFiles/rebuild_cache.dir
+/home/aikit/FireDetectApp/out/CMakeFiles/fire_detect_app.dir
+/home/aikit/FireDetectApp/out/ai_client/CMakeFiles/edit_cache.dir
+/home/aikit/FireDetectApp/out/ai_client/CMakeFiles/rebuild_cache.dir
+/home/aikit/FireDetectApp/out/ai_client/CMakeFiles/ai_client.dir
+/home/aikit/FireDetectApp/out/config/CMakeFiles/edit_cache.dir
+/home/aikit/FireDetectApp/out/config/CMakeFiles/rebuild_cache.dir
+/home/aikit/FireDetectApp/out/config/CMakeFiles/config.dir

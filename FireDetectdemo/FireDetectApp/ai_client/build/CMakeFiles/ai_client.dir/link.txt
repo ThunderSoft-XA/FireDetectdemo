@@ -1,0 +1,1 @@
+/usr/bin/cc  -fPIC  -lm -lpthread  -shared -Wl,-soname,libai_client.so -o /home/aikit/demo/flamigos5-1.1/lib/libai_client.so CMakeFiles/ai_client.dir/src/Base64.c.o CMakeFiles/ai_client.dir/src/buffer.c.o CMakeFiles/ai_client.dir/src/cJSON.c.o CMakeFiles/ai_client.dir/src/client.c.o CMakeFiles/ai_client.dir/src/ai_client.c.o -lcurl -lm -lpthread 

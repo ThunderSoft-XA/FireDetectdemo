@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -std=c++0x  -lm -pthread  -O0 -Wall -g -ggdb  -shared -Wl,-soname,libconfig.so -o ../../lib/libconfig.so CMakeFiles/config.dir/src/iniparser.cpp.o CMakeFiles/config.dir/src/dictionary.cpp.o CMakeFiles/config.dir/src/param.cpp.o  -L/  -L/home/aikit/FireDetectApp/lib  -L/home/aikit/FireDetectApp/release/lib 

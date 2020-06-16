@@ -1,0 +1,3 @@
+/home/aikit/demo/flamigos5-1.1/ai_client/build/CMakeFiles/edit_cache.dir
+/home/aikit/demo/flamigos5-1.1/ai_client/build/CMakeFiles/rebuild_cache.dir
+/home/aikit/demo/flamigos5-1.1/ai_client/build/CMakeFiles/ai_client.dir
